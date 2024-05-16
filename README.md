@@ -5,7 +5,6 @@ Welcome to the Cyber Security repository! This repository is dedicated to collec
 ## Contents
 1. [Resources](https://github.com/MdSayemMottakee/Cyber-Security/blob/main/Resources.md)
 
-<img src="https://raw.githubusercontent.com/MdSayemMottakee/MdSayemMottakee/output/snake.svg" alt="Snake animation" />
 
 ### Networking
 
