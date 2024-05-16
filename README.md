@@ -4,7 +4,7 @@ Welcome to the Cyber Security repository! This repository is dedicated to collec
 
 ## Contents
 1. [Resources](https://github.com/MdSayemMottakee/Cyber-Security/blob/main/Resources.md)
-
+2. [Kali Linux Basic Commands](https://github.com/MdSayemMottakee/Cyber-Security/blob/main/Kali%20Linux/Basic%20Command.md)
 
 ### Networking
 
